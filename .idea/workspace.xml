@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4de5af45-1d26-48cb-b3c7-b10e01b465ad" name="Changes" comment="" />
+    <list default="true" id="4de5af45-1d26-48cb-b3c7-b10e01b465ad" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ContaBanco.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ContaTerminal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DadosBancarios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +25,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2
@@ -29,7 +41,9 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "onboarding.tips.debug.path": "/home/dezza/IntelliJ-2023/ideaIC-2023.2.1/idea-IC-232.9559.62/ContaBanco/src/Main.java"
+    "git-widget-placeholder": "main",
+    "onboarding.tips.debug.path": "/home/dezza/IntelliJ-2023/ideaIC-2023.2.1/idea-IC-232.9559.62/ContaBanco/src/Main.java",
+    "settings.editor.selected.configurable": "CodeWithMe"
   }
 }]]></component>
   <component name="RunManager" selected="Application.ContaTerminal">
@@ -75,5 +89,9 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
